@@ -3623,6 +3623,24 @@
     "official": false
   },
   {
+    "name": "Flight Seatmap",
+    "url": "https://flightseatmap.com/mcp",
+    "description": "Seat maps, seat ratings, traveller reviews and seat alerts for 100+ airlines, as a hosted remote MCP server.",
+    "category": "finance-commerce-and-business-apps",
+    "language": "Other",
+    "provider": "FlightSeatmap",
+    "tags": [
+      "travel",
+      "flights",
+      "seat-map",
+      "aviation"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://mcp.flightseatmap.com/mcp"
+    }
+  },
+  {
     "name": "Tavero",
     "url": "https://github.com/baccaraaa/tavero",
     "description": "Scans a running React 19 app (Vite or Next.js) for UI drift in buttons, cards, colors, and spacing, and returns fixes with file and line references to the coding agent.",
