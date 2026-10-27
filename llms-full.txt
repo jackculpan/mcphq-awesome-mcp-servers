@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 464 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 465 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -4307,6 +4307,18 @@ Protocol scraper and MCP server for Workday, Greenhouse, Lever, Ashby, and Smart
 - Official: yes
 - Tags: ats, recruiting, job-scraping, delta-tracking, apify
 - Category: Finance, Commerce, and Business Apps
+
+### Award Travel Finder
+
+Search award flight availability and points pricing across 27 airlines and 23 loyalty programs from any MCP client.
+
+- URL: https://github.com/AwardTravelFinder/mcp
+- Language: Other
+- Provider: Award Travel Finder
+- Official: yes
+- Tags: travel, flights, airlines, award-travel, points
+- Category: Finance, Commerce, and Business Apps
+- Streamable HTTP endpoint: https://mcp.awardtravelfinder.com/mcp
 
 ### BankBridge
 

@@ -3879,6 +3879,19 @@
     }
   },
   {
+    "name": "Award Travel Finder",
+    "url": "https://github.com/AwardTravelFinder/mcp",
+    "description": "Search award flight availability and points pricing across 27 airlines and 23 loyalty programs from any MCP client.",
+    "category": "finance-commerce-and-business-apps",
+    "language": "Other",
+    "provider": "Award Travel Finder",
+    "tags": ["travel", "flights", "airlines", "award-travel", "points"],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://mcp.awardtravelfinder.com/mcp"
+    }
+  },
+  {
     "name": "Stivio",
     "url": "https://stivio.ai/mcp",
     "description": "AI image-to-video generator MCP server. Turn any image into a 5-second video with plain-language motion prompts.",
