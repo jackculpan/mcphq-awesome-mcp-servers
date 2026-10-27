@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 464 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 465 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -5198,6 +5198,17 @@ Search thousands of MCP servers, agents, and CLI tools by capability.
 - Provider: Community
 - Official: no
 - Tags: discovery, search, registry
+- Category: Utilities and Examples
+
+### Airport Lounge List MCP Server
+
+Hosted server for searching 8,500+ airport lounges and checking access by card or membership.
+
+- URL: https://github.com/Airport-Lounge-List/mcp-server
+- Language: Ruby
+- Provider: Airport Lounge List
+- Official: yes
+- Tags: travel, airports, lounges
 - Category: Utilities and Examples
 
 ### Anyquery

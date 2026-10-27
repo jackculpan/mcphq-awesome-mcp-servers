@@ -3879,6 +3879,16 @@
     }
   },
   {
+    "name": "Airport Lounge List MCP Server",
+    "url": "https://github.com/Airport-Lounge-List/mcp-server",
+    "description": "Hosted server for searching 8,500+ airport lounges and checking access by card or membership.",
+    "category": "utilities-and-examples",
+    "language": "Ruby",
+    "provider": "Airport Lounge List",
+    "tags": ["travel", "airports", "lounges"],
+    "official": true
+  },
+  {
     "name": "Stivio",
     "url": "https://stivio.ai/mcp",
     "description": "AI image-to-video generator MCP server. Turn any image into a 5-second video with plain-language motion prompts.",
